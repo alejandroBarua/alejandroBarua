@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **alejandrobarua1@gmail.com**
 
+### 📊 My GitHub's Stats
+
+![Alejandro Barua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandroBarua&show_icons=true&theme=tokyonight)
+
 
 ### Languages and Tools
 
