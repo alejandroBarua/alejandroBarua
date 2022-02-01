@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alejandro Barua</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<div style='background-color:#FFE742; color:black; padding:16px;'>
+  <h1 align="center">Hi 👋, I'm Alejandro Barua</h1>
+  <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+</div>
 
 - 🔭 I’m currently working on **Henry Bootcamp**
 
