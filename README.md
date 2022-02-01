@@ -1,68 +1,22 @@
-<div style='background-color:#FFE742; color:black; padding:16px;'>
-  <h1 align="center">Hi 👋, I'm Alejandro Barua</h1>
-  <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
-</div>
+![Header](./github-header.png?raw=true)
+
+### 💡 A passionate Full Stack Developer from Argentina
 
 - 🔭 I’m currently working on **Henry Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alejandrobarua.netlify.app/](https://portfolio-alejandrobarua.netlify.app/)
+- 🧑🏻‍💻 All of my projects are available at [https://portfolio-alejandrobarua.netlify.app/](https://portfolio-alejandrobarua.netlify.app/)
 
-- 💬 Ask me about **Javascript, React and Node js**
+- 📝 Connect with me by Linkedin [https://www.linkedin.com/in/alejandrobarua/](https://www.linkedin.com/in/alejandrobarua/)
 
 - 📫 How to reach me **alejandrobarua1@gmail.com**
 
-- 💡 Connect with me by Linkedin [https://www.linkedin.com/in/alejandrobarua/](https://www.linkedin.com/in/alejandrobarua/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a style='padding:10px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a style='padding:6px;'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
+### Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![Styled-components](https://img.shields.io/badge/Styled--components-000?style=for-the-badge&logo=styled-components) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux) ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku)
 
 
-## My proyects
-
-<br>
+### My proyects
 
 <p>
   <a href="https://portfolio-alejandrobarua.netlify.app" target="_blank" rel="noreferrer" 
