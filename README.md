@@ -12,7 +12,7 @@
 
 ### 📊 My GitHub's Stats
 
-![Alejandro Barua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandroBarua&show_icons=true&theme=tokyonight)
+![Alejandro Barua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandroBarua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)
 
 
 ### Languages and Tools
